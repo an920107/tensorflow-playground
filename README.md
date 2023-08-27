@@ -4,13 +4,13 @@
 
 - Python version is `<= 3.9.13`
 
-- Tensorflow version is `2.5.0`
+- Tensorflow version is `2.6.0`
 
 - [Nvidia driver](https://www.nvidia.com.tw/Download/index.aspx?lang=tw)
 
-- [Nvidia cuda toolkit](https://developer.nvidia.com/cuda-toolkit-archive) (<= 11.8)
+- [Nvidia cuda toolkit](https://developer.nvidia.com/cuda-toolkit-archive) (`<= 11.8`)
 
-- [Nvidia cuDNN](https://developer.nvidia.com/cudnn) (cuda 11)
+- [Nvidia cuDNN](https://developer.nvidia.com/cudnn) (`cuda 11`)
 
 ## Learning Resources
 
